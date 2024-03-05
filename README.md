@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doğan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -32,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
 ###
