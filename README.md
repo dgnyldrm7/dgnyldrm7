@@ -34,7 +34,7 @@ Firat University — *Bachelor's Degree (2020–2025)*
 - **Languages**
   - C# (.NET 8/9, ASP.NET Core, MVC, Razor Pages, Minimal API)
   - TypeScript (Angular)
-  - JavaScript (Node.js)
+  - JavaScript
   - SQL (MSSQL, PostgreSQL, SQLite)
   - GoLang (learning)
 
