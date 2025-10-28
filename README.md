@@ -32,38 +32,45 @@ Firat University — *Bachelor's Degree (2020–2025)*
 ## 🛠️ Technologies
 
 - **Languages**
-  - C# (.NET 8/9, ASP.NET Core)
+  - C# (.NET 8/9, ASP.NET Core, MVC, Razor Pages, Minimal API)
   - TypeScript (Angular)
-  - GoLang
-  - Java (Spring)
-  - Python (Flask, TensorFlow)
   - JavaScript (Node.js)
+  - SQL (MSSQL, PostgreSQL, SQLite)
+  - GoLang (learning)
+  - Python (Flask, TensorFlow)
 
-- **Databases**
-  - SQL Server
-  - PostgreSQL
-  - MongoDB
-  - MySQL
-  - Redis
+- **Frontend**
+  - Angular · Bootstrap · jQuery · AJAX · Responsive Design
 
-- **DevOps & Infrastructure**
-  - Docker
-  - Kubernetes
-  - Nginx
-  - Jenkins · Azure DevOps · GitLab CI
-  - SonarQube · Prometheus · Grafana · Seq
+- **Backend**
+  - ASP.NET Core API · Identity & JWT · Middleware · DI
+  - SignalR · RabbitMQ · Exception Handling
+  - AutoMapper · FluentValidation
 
-- **Architecture & Patterns**
-  - Microservices · DDD · CQRS · Clean Architecture
-  - Event-Driven Systems (RabbitMQ, Worker Services)
-  - Multi-Tenant SaaS · Caching · Identity & JWT
+- **Databases & ORM**
+  - MSSQL · PostgreSQL · SQLite
+  - EF Core (Advanced LINQ & Query Optimization)
+  - Repository / Unit of Work Pattern
 
-- **Other Tools**
-  - EF Core · FluentValidation
-  - SignalR · Swagger · Serilog
-  - Git · GitHub · GitLab
+- **Architectural Practices**
+  - Clean Architecture · CQRS · Mediatr · DDD (entry level)
+  - N-Tier Architecture · Option/Result Pattern
+  - Microservices · ABP Framework
 
-> 💡 *I couldn’t fit everything here — but these are the core tools I use every day!*
+- **DevOps & Tools**
+  - Docker · Docker Compose · Git · GitHub · GitHub Actions
+  - Jenkins · SonarQube · Postman · Trello · Swagger
+  - Windows Hosting · DevTools
+
+- **Testing & Monitoring**
+  - xUnit · Moq · k6 (Load Testing)
+  - Serilog · Performance Monitoring
+
+- **Other Skills**
+  - REST API Design · Documentation · Team Collaboration
+  - CI/CD Pipelines · Rate Limiting · Load Optimization
+
+> 💬 *These are the core technologies I use daily to build scalable, maintainable, and production-ready systems.*
 
 ---
 
