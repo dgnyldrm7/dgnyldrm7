@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Doğan YILDIRIM
+# 👋 Hello, I'm Doğan YILDIRIM   ![Profile Views](https://komarev.com/ghpvc/?username=dgnyldrm7&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 🚀 **Solution-Oriented Software Architect & Full-Stack Developer**  
 💡 Passionate about building **scalable**, **modern**, and **meaningful** systems.  
@@ -101,6 +101,8 @@ Firat University — *Bachelor's Degree (2020–2025)*
 
 ![Doğan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgnyldrm7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnyldrm7&layout=compact&theme=radical)
+
+
 
 ---
 
