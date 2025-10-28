@@ -37,7 +37,6 @@ Firat University — *Bachelor's Degree (2020–2025)*
   - JavaScript (Node.js)
   - SQL (MSSQL, PostgreSQL, SQLite)
   - GoLang (learning)
-  - Python (Flask, TensorFlow)
 
 - **Frontend**
   - Angular · Bootstrap · jQuery · AJAX · Responsive Design
@@ -97,21 +96,5 @@ Firat University — *Bachelor's Degree (2020–2025)*
 
 ---
 
-## 📊 GitHub Analytics
-
-![Doğan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dgnyldrm7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnyldrm7&layout=compact&theme=radical)
-
-
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Doğan%20Yıldırım-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dogan-yildirim)  
-[![GitHub](https://img.shields.io/badge/GitHub-dgnyldrm7-black?style=for-the-badge&logo=github)](https://github.com/dgnyldrm7)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-orange?style=for-the-badge&logo=vercel)](#)
-
----
 
 > 💬 “Everything we create together is more meaningful.”
