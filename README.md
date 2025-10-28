@@ -23,29 +23,47 @@ When I’m not coding, I’m usually improving my CI/CD pipelines, exploring new
 
 ## 🎓 Education
 
-🎓 **Computer Engineering**  
-[University of Cumhuriyet] — *Bachelor's Degree (2013–2017)*
-
 🎓 **Software Engineering**  
-Ongoing learning through real-world systems, distributed design, and scalable architectures.
+Firat University — *Bachelor's Degree (2020–2025)*
+
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-**Languages & Frameworks**  
-`C#` · `.NET 8/9` · `ASP.NET Core` · `Angular` · `TypeScript` · `Go` · `SQL` · `PostgreSQL`
+- **Languages**
+  - C# (.NET 8/9, ASP.NET Core)
+  - TypeScript (Angular)
+  - GoLang
+  - Java (Spring)
+  - Python (Flask, TensorFlow)
+  - JavaScript (Node.js)
 
-**Architectural Practices**  
-`Microservices` · `DDD` · `CQRS` · `Event-Driven Architecture` · `Clean Architecture`
+- **Databases**
+  - SQL Server
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - Redis
 
-**Infrastructure & DevOps**  
-`Docker` · `Azure DevOps` · `Jenkins` · `SonarQube` · `Prometheus` · `Grafana` · `Seq` · `RabbitMQ` · `Redis`
+- **DevOps & Infrastructure**
+  - Docker
+  - Kubernetes
+  - Nginx
+  - Jenkins · Azure DevOps · GitLab CI
+  - SonarQube · Prometheus · Grafana · Seq
 
-**Other Tools**  
-`FluentValidation` · `EF Core` · `Identity & JWT` · `SignalR` · `Nginx` · `Kubernetes (learning)`
+- **Architecture & Patterns**
+  - Microservices · DDD · CQRS · Clean Architecture
+  - Event-Driven Systems (RabbitMQ, Worker Services)
+  - Multi-Tenant SaaS · Caching · Identity & JWT
 
-> 💬 _Note: I use many more technologies daily, but this list would overflow GitHub’s page if I wrote them all!_ 😉
+- **Other Tools**
+  - EF Core · FluentValidation
+  - SignalR · Swagger · Serilog
+  - Git · GitHub · GitLab
+
+> 💡 *I couldn’t fit everything here — but these are the core tools I use every day!*
 
 ---
 
